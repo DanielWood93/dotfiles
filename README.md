@@ -70,7 +70,7 @@ Settings: `saved_settings.dconf`
 
 ### Slack theme
 
-`#1A1D21,#000000,#4999C4,#FFFFFF,#000000,#FFFFFF,#84F75E,#B53333,#000000,#FFFFFF`
+`#1A1D21,#000000,#4999C4,#FFFFFF,#000000,#FFFFFF,#84F75E,#B53333,#1A1D21,#FFFFFF`
 
 | Name | Hex | Preview |
 |------|-----|---------|
@@ -81,7 +81,7 @@ Settings: `saved_settings.dconf`
 | Text colour | `#FFFFFF` | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) |
 | Active presence | `#84F75E` | ![#84F75E](https://via.placeholder.com/15/84F75E/000000?text=+) |
 | Mention badge | `#B53333` | ![#B53333](https://via.placeholder.com/15/B53333/000000?text=+) |
-| Top nav BG | `#000000` | ![#000000](https://via.placeholder.com/15/000000/000000?text=+) |
+| Top nav BG | `#1A1D21` | ![#1A1D21](https://via.placeholder.com/15/1A1D21/000000?text=+) |
 | Top nav text | `#FFFFFF` | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) |
 
 ## Other
@@ -94,5 +94,3 @@ Settings: `saved_settings.dconf`
 ### To add
 
 - `Ant-Dracula-alt (green)` theme
-- aliases
-- applications
